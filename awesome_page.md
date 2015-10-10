@@ -1,4 +1,4 @@
-## Showing off our markdown skills.
+# Showing off our markdown skills.
 *Italics*
 **Bold**
 `git clone [URL of the repository you want to copy]`
